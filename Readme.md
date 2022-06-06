@@ -29,11 +29,14 @@ Follow the commands
 
 ### Prerequisites
 * Install Visual studio
+
   https://visualstudio.microsoft.com/downloads/#build-tools-for-visual-studio-2022
+
   Please install Visual studio 2022 (Community version).
+
   When you install visual studio, add "Dsektop Developmentwith C++"
 
- <img src="images/Defi_safeBot.png" alt="images/vs_install.png" width="230" height="160">
+ <img src="mages/vs_install.png" alt="images/vs_install.png" width="230" height="160">
 
 * Go to path folder
 
