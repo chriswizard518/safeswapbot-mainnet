@@ -36,7 +36,7 @@ Follow the commands
 
   When you install visual studio, add "Dsektop Developmentwith C++"
 
- <img src="images/vs_install.png" alt="images/vs_install.png" width="230" height="160">
+ <img src="images/vs_install.png" alt="images/vs_install.png" width="600" height="400">
 
 * Go to path folder
 
